@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "MockMCP": {
+      "command": "C:\\Python313\\python.exe",
+      "args": [
+        "-u",
+        "C:\\Users\\inamd\\MCP\\Mcp2.py",
+        "--transport",
+        "stdio"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
